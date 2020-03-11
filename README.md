@@ -1,1 +1,1 @@
-# lab02
+$ open https://git-scm.com
