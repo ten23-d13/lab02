@@ -1,1 +1,1 @@
-$ open https://git-scm.com
+Timur
